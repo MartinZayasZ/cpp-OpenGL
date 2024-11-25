@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CursoOpenGL.dir/src/glad.c.o CMakeFiles/CursoOpenGL.dir/src/main.cpp.o -o CursoOpenGL  -lglfw 

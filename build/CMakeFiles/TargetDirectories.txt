@@ -1,0 +1,3 @@
+/home/mzayas/projects/opengl/curso1/build/CMakeFiles/CursoOpenGL.dir
+/home/mzayas/projects/opengl/curso1/build/CMakeFiles/edit_cache.dir
+/home/mzayas/projects/opengl/curso1/build/CMakeFiles/rebuild_cache.dir
